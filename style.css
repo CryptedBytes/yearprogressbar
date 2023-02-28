@@ -1,0 +1,33 @@
+#Progress_Status {
+  width: 100%;
+  background-color: #ccc;
+  border: solid;
+  color: black !important;
+  border-color: black;
+  }
+  
+  #myprogressBar {
+  width: 1%;
+  /* height: 35px; */
+  height: 80px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 32px;
+
+  }
+  
+
+.center {
+  width: 95%;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    /* background-color: red; */
+  }
+
+  body{
+    background-color: rgb(41, 41, 41) !important;
+    color: wheat;
+  }
